@@ -1,5 +1,10 @@
 # site-institucional
 
+## Construção de modelo de site institucional
+```
+Reponsividade para Mobile e Desktop
+```
+
 ## Project setup
 ```
 npm install
