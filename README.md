@@ -4,6 +4,10 @@
 ```
 Reponsividade para Mobile e Desktop
 ```
+## Conceitos trabalhados
+```
+Axios, Components e Router
+```
 
 ## Project setup
 ```
